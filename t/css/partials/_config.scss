@@ -1,0 +1,17 @@
+$font:'Playfair Display', serif;
+$colorWhite: #FFFF;
+$font2: 'Amatic SC', cursive;
+$font3: 'Kaushan Script', cursive;
+
+html{
+  box-sizing: border-box;
+  font-size: 70%;
+}
+*{
+  box-sizing: inherit;
+}
+body{
+  margin: 0;
+  font-size: 1.4rem;
+  font-family: $font3;
+}
